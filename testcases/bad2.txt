@@ -1,0 +1,4526 @@
+random number 74
+ERROR: xz -> xy on an even fold.
+start point 0 15 32
+end point 36 89 106
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 32
+end point 44 89 106
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 36
+end point 34 89 110
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 36
+end point 40 89 110
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 36
+end point 42 89 110
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 36
+end point 48 89 110
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 36
+end point 50 89 110
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 40
+end point 44 89 114
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 40
+end point 52 89 114
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 44
+end point 40 89 118
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 44
+end point 42 89 118
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 44
+end point 48 89 118
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 44
+end point 50 89 118
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 48
+end point 36 89 122
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 48
+end point 44 89 122
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 48
+end point 52 89 122
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 52
+end point 32 89 126
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 52
+end point 34 89 126
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 52
+end point 42 89 126
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 52
+end point 48 89 126
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 52
+end point 50 89 126
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 56
+end point 44 89 130
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 56
+end point 52 89 130
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 60
+end point 40 89 134
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 60
+end point 42 89 134
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 60
+end point 48 89 134
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 60
+end point 50 89 134
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 60
+end point 52 89 134
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 64
+end point 36 89 138
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 64
+end point 44 89 138
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 68
+end point 32 89 142
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 68
+end point 34 89 142
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 68
+end point 40 89 142
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 68
+end point 42 89 142
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 68
+end point 48 89 142
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 68
+end point 50 89 142
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 72
+end point 36 89 146
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 72
+end point 44 89 146
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 72
+end point 52 89 146
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 76
+end point 40 89 150
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 76
+end point 42 89 150
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 76
+end point 48 89 150
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 76
+end point 50 89 150
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 80
+end point 36 89 154
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 80
+end point 44 89 154
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 80
+end point 52 89 154
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 84
+end point 32 89 158
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 84
+end point 34 89 158
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 84
+end point 48 89 158
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 84
+end point 50 89 158
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 88
+end point 28 89 162
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 88
+end point 44 89 162
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 88
+end point 52 89 162
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 92
+end point 40 89 166
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 92
+end point 42 89 166
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 92
+end point 48 89 166
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 92
+end point 50 89 166
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 92
+end point 52 89 166
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 96
+end point 36 89 170
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 96
+end point 44 89 170
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 100
+end point 32 89 174
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 100
+end point 34 89 174
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 100
+end point 40 89 174
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 100
+end point 42 89 174
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 100
+end point 48 89 174
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 15 100
+end point 50 89 174
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 33
+end point 35 90 107
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 33
+end point 43 90 107
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 37
+end point 39 90 111
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 37
+end point 41 90 111
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 37
+end point 47 90 111
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 37
+end point 49 90 111
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 37
+end point 55 90 111
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 41
+end point 43 90 115
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 41
+end point 51 90 115
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 45
+end point 39 90 119
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 45
+end point 41 90 119
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 45
+end point 47 90 119
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 45
+end point 49 90 119
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 49
+end point 35 90 123
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 49
+end point 43 90 123
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 49
+end point 51 90 123
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 53
+end point 31 90 127
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 53
+end point 33 90 127
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 53
+end point 47 90 127
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 53
+end point 49 90 127
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 53
+end point 55 90 127
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 57
+end point 43 90 131
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 57
+end point 51 90 131
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 61
+end point 39 90 135
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 61
+end point 41 90 135
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 61
+end point 47 90 135
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 61
+end point 49 90 135
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 61
+end point 51 90 135
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 65
+end point 35 90 139
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 65
+end point 43 90 139
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 69
+end point 31 90 143
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 69
+end point 33 90 143
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 69
+end point 39 90 143
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 69
+end point 41 90 143
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 69
+end point 47 90 143
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 69
+end point 49 90 143
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 69
+end point 55 90 143
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 73
+end point 43 90 147
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 73
+end point 51 90 147
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 77
+end point 39 90 151
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 77
+end point 41 90 151
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 77
+end point 47 90 151
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 77
+end point 49 90 151
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 77
+end point 55 90 151
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 81
+end point 35 90 155
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 81
+end point 43 90 155
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 81
+end point 51 90 155
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 85
+end point 31 90 159
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 85
+end point 33 90 159
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 85
+end point 47 90 159
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 85
+end point 49 90 159
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 85
+end point 55 90 159
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 89
+end point 27 90 163
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 89
+end point 43 90 163
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 89
+end point 51 90 163
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 93
+end point 39 90 167
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 93
+end point 41 90 167
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 93
+end point 47 90 167
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 93
+end point 49 90 167
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 93
+end point 51 90 167
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 97
+end point 35 90 171
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 97
+end point 43 90 171
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 101
+end point 33 90 175
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 101
+end point 39 90 175
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 101
+end point 41 90 175
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 101
+end point 47 90 175
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 101
+end point 49 90 175
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 16 101
+end point 55 90 175
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 30
+end point 38 91 104
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 30
+end point 40 91 104
+Fold: 190
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 30
+end point 46 91 104
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 30
+end point 48 91 104
+Fold: 190
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 30
+end point 50 91 104
+Fold: 188
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 34
+end point 34 91 108
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 34
+end point 42 91 108
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 34
+end point 50 91 108
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 38
+end point 40 91 112
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 38
+end point 46 91 112
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 38
+end point 48 91 112
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 38
+end point 54 91 112
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 42
+end point 42 91 116
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 42
+end point 50 91 116
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 46
+end point 38 91 120
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 46
+end point 40 91 120
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 46
+end point 46 91 120
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 46
+end point 48 91 120
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 50
+end point 34 91 124
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 50
+end point 42 91 124
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 50
+end point 50 91 124
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 54
+end point 30 91 128
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 54
+end point 32 91 128
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 54
+end point 46 91 128
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 54
+end point 48 91 128
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 54
+end point 54 91 128
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 58
+end point 42 91 132
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 58
+end point 50 91 132
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 62
+end point 38 91 136
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 62
+end point 40 91 136
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 62
+end point 46 91 136
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 62
+end point 48 91 136
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 62
+end point 50 91 136
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 66
+end point 34 91 140
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 66
+end point 42 91 140
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 70
+end point 32 91 144
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 70
+end point 38 91 144
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 70
+end point 40 91 144
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 70
+end point 46 91 144
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 70
+end point 48 91 144
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 70
+end point 54 91 144
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 74
+end point 42 91 148
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 74
+end point 50 91 148
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 78
+end point 38 91 152
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 78
+end point 40 91 152
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 78
+end point 46 91 152
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 78
+end point 48 91 152
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 78
+end point 54 91 152
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 82
+end point 34 91 156
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 82
+end point 50 91 156
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 86
+end point 30 91 160
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 86
+end point 32 91 160
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 86
+end point 46 91 160
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 86
+end point 48 91 160
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 86
+end point 54 91 160
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 90
+end point 42 91 164
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 90
+end point 50 91 164
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 94
+end point 38 91 168
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 94
+end point 40 91 168
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 94
+end point 46 91 168
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 94
+end point 48 91 168
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 94
+end point 50 91 168
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 98
+end point 34 91 172
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 98
+end point 42 91 172
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 102
+end point 38 91 176
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 102
+end point 40 91 176
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 102
+end point 46 91 176
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 102
+end point 48 91 176
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 17 102
+end point 54 91 176
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 31
+end point 37 92 105
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 31
+end point 39 92 105
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 31
+end point 45 92 105
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 31
+end point 47 92 105
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 35
+end point 41 92 109
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 35
+end point 49 92 109
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 39
+end point 45 92 113
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 39
+end point 47 92 113
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 39
+end point 53 92 113
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 39
+end point 55 92 113
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 43
+end point 41 92 117
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 43
+end point 49 92 117
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 47
+end point 37 92 121
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 47
+end point 39 92 121
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 47
+end point 45 92 121
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 47
+end point 47 92 121
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 47
+end point 53 92 121
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 51
+end point 33 92 125
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 51
+end point 49 92 125
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 55
+end point 31 92 129
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 55
+end point 45 92 129
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 55
+end point 47 92 129
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 55
+end point 53 92 129
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 55
+end point 55 92 129
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 59
+end point 41 92 133
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 59
+end point 49 92 133
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 63
+end point 37 92 137
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 63
+end point 39 92 137
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 63
+end point 45 92 137
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 63
+end point 47 92 137
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 63
+end point 49 92 137
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 67
+end point 33 92 141
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 67
+end point 41 92 141
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 71
+end point 37 92 145
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 71
+end point 39 92 145
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 71
+end point 45 92 145
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 71
+end point 47 92 145
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 71
+end point 53 92 145
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 71
+end point 55 92 145
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 75
+end point 41 92 149
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 75
+end point 49 92 149
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 79
+end point 37 92 153
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 79
+end point 39 92 153
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 79
+end point 45 92 153
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 79
+end point 47 92 153
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 79
+end point 53 92 153
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 79
+end point 55 92 153
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 83
+end point 33 92 157
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 83
+end point 49 92 157
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 87
+end point 29 92 161
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 87
+end point 31 92 161
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 87
+end point 45 92 161
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 87
+end point 47 92 161
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 87
+end point 53 92 161
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 87
+end point 55 92 161
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 91
+end point 41 92 165
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 91
+end point 49 92 165
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 95
+end point 37 92 169
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 95
+end point 39 92 169
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 95
+end point 45 92 169
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 95
+end point 47 92 169
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 95
+end point 49 92 169
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 99
+end point 33 92 173
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 99
+end point 41 92 173
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 99
+end point 49 92 173
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 103
+end point 39 92 177
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 103
+end point 45 92 177
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 103
+end point 47 92 177
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 103
+end point 53 92 177
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 18 103
+end point 55 92 177
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 32
+end point 36 93 106
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 32
+end point 38 93 106
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 32
+end point 44 93 106
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 32
+end point 46 93 106
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 36
+end point 40 93 110
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 36
+end point 48 93 110
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 40
+end point 44 93 114
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 40
+end point 46 93 114
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 40
+end point 52 93 114
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 40
+end point 54 93 114
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 44
+end point 40 93 118
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 44
+end point 48 93 118
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 48
+end point 36 93 122
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 48
+end point 38 93 122
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 48
+end point 44 93 122
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 48
+end point 46 93 122
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 48
+end point 52 93 122
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 52
+end point 32 93 126
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 52
+end point 48 93 126
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 56
+end point 30 93 130
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 56
+end point 44 93 130
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 56
+end point 46 93 130
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 56
+end point 52 93 130
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 56
+end point 54 93 130
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 60
+end point 40 93 134
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 60
+end point 48 93 134
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 64
+end point 36 93 138
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 64
+end point 38 93 138
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 64
+end point 44 93 138
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 64
+end point 46 93 138
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 64
+end point 48 93 138
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 68
+end point 32 93 142
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 68
+end point 40 93 142
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 72
+end point 36 93 146
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 72
+end point 38 93 146
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 72
+end point 44 93 146
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 72
+end point 46 93 146
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 72
+end point 52 93 146
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 72
+end point 54 93 146
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 76
+end point 40 93 150
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 76
+end point 48 93 150
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 80
+end point 36 93 154
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 80
+end point 38 93 154
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 80
+end point 44 93 154
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 80
+end point 46 93 154
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 80
+end point 52 93 154
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 80
+end point 54 93 154
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 84
+end point 32 93 158
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 84
+end point 48 93 158
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 88
+end point 28 93 162
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 88
+end point 30 93 162
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 88
+end point 44 93 162
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 88
+end point 46 93 162
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 88
+end point 52 93 162
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 88
+end point 54 93 162
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 92
+end point 40 93 166
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 92
+end point 48 93 166
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 96
+end point 36 93 170
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 96
+end point 38 93 170
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 96
+end point 44 93 170
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 96
+end point 46 93 170
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 96
+end point 48 93 170
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 100
+end point 32 93 174
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 100
+end point 40 93 174
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 19 100
+end point 48 93 174
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 33
+end point 35 94 107
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 33
+end point 37 94 107
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 33
+end point 43 94 107
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 33
+end point 45 94 107
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 37
+end point 39 94 111
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 37
+end point 47 94 111
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 37
+end point 55 94 111
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 41
+end point 43 94 115
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 41
+end point 45 94 115
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 41
+end point 51 94 115
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 41
+end point 53 94 115
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 41
+end point 55 94 115
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 45
+end point 39 94 119
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 45
+end point 47 94 119
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 49
+end point 35 94 123
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 49
+end point 37 94 123
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 49
+end point 43 94 123
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 49
+end point 45 94 123
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 49
+end point 51 94 123
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 49
+end point 53 94 123
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 53
+end point 31 94 127
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 53
+end point 47 94 127
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 53
+end point 55 94 127
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 57
+end point 43 94 131
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 57
+end point 45 94 131
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 57
+end point 51 94 131
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 57
+end point 53 94 131
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 57
+end point 55 94 131
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 61
+end point 39 94 135
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 61
+end point 47 94 135
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 65
+end point 35 94 139
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 65
+end point 37 94 139
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 65
+end point 43 94 139
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 65
+end point 45 94 139
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 65
+end point 47 94 139
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 69
+end point 31 94 143
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 69
+end point 39 94 143
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 69
+end point 47 94 143
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 69
+end point 55 94 143
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 73
+end point 37 94 147
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 73
+end point 43 94 147
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 73
+end point 45 94 147
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 73
+end point 51 94 147
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 73
+end point 53 94 147
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 73
+end point 55 94 147
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 77
+end point 39 94 151
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 77
+end point 47 94 151
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 77
+end point 55 94 151
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 81
+end point 35 94 155
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 81
+end point 37 94 155
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 81
+end point 43 94 155
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 81
+end point 45 94 155
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 81
+end point 51 94 155
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 81
+end point 53 94 155
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 85
+end point 31 94 159
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 85
+end point 47 94 159
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 85
+end point 55 94 159
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 89
+end point 27 94 163
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 89
+end point 29 94 163
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 89
+end point 43 94 163
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 89
+end point 45 94 163
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 89
+end point 51 94 163
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 89
+end point 53 94 163
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 89
+end point 55 94 163
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 93
+end point 39 94 167
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 93
+end point 47 94 167
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 97
+end point 35 94 171
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 97
+end point 37 94 171
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 97
+end point 43 94 171
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 97
+end point 45 94 171
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 101
+end point 39 94 175
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 101
+end point 47 94 175
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 20 101
+end point 55 94 175
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 30
+end point 38 95 104
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 30
+end point 46 95 104
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 34
+end point 34 95 108
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 34
+end point 36 95 108
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 34
+end point 42 95 108
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 34
+end point 44 95 108
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 34
+end point 50 95 108
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 38
+end point 46 95 112
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 38
+end point 54 95 112
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 42
+end point 42 95 116
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 42
+end point 44 95 116
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 42
+end point 50 95 116
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 42
+end point 52 95 116
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 42
+end point 54 95 116
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 46
+end point 38 95 120
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 46
+end point 46 95 120
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 50
+end point 34 95 124
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 50
+end point 36 95 124
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 50
+end point 42 95 124
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 50
+end point 44 95 124
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 50
+end point 50 95 124
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 50
+end point 52 95 124
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 54
+end point 30 95 128
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 54
+end point 46 95 128
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 54
+end point 54 95 128
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 58
+end point 42 95 132
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 58
+end point 44 95 132
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 58
+end point 50 95 132
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 58
+end point 52 95 132
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 58
+end point 54 95 132
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 62
+end point 38 95 136
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 62
+end point 46 95 136
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 66
+end point 34 95 140
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 66
+end point 36 95 140
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 66
+end point 42 95 140
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 66
+end point 44 95 140
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 70
+end point 38 95 144
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 70
+end point 46 95 144
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 70
+end point 54 95 144
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 74
+end point 42 95 148
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 74
+end point 44 95 148
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 74
+end point 50 95 148
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 74
+end point 52 95 148
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 78
+end point 38 95 152
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 78
+end point 46 95 152
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 78
+end point 54 95 152
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 82
+end point 34 95 156
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 82
+end point 36 95 156
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 82
+end point 44 95 156
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 82
+end point 50 95 156
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 82
+end point 52 95 156
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 86
+end point 30 95 160
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 86
+end point 46 95 160
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 86
+end point 54 95 160
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 90
+end point 28 95 164
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 90
+end point 42 95 164
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 90
+end point 44 95 164
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 90
+end point 50 95 164
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 90
+end point 52 95 164
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 90
+end point 54 95 164
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 94
+end point 38 95 168
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 94
+end point 46 95 168
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 98
+end point 34 95 172
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 98
+end point 36 95 172
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 98
+end point 42 95 172
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 98
+end point 44 95 172
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 102
+end point 38 95 176
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 102
+end point 46 95 176
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 21 102
+end point 54 95 176
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 31
+end point 37 96 105
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 31
+end point 45 96 105
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 35
+end point 35 96 109
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 35
+end point 41 96 109
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 35
+end point 43 96 109
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 35
+end point 49 96 109
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 35
+end point 51 96 109
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 39
+end point 45 96 113
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 39
+end point 53 96 113
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 43
+end point 41 96 117
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 43
+end point 43 96 117
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 43
+end point 49 96 117
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 43
+end point 51 96 117
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 43
+end point 55 96 117
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 47
+end point 37 96 121
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 47
+end point 45 96 121
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 47
+end point 53 96 121
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 51
+end point 33 96 125
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 51
+end point 35 96 125
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 51
+end point 43 96 125
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 51
+end point 49 96 125
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 51
+end point 51 96 125
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 55
+end point 45 96 129
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 55
+end point 53 96 129
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 59
+end point 41 96 133
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 59
+end point 43 96 133
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 59
+end point 49 96 133
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 59
+end point 51 96 133
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 59
+end point 53 96 133
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 59
+end point 55 96 133
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 63
+end point 37 96 137
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 63
+end point 45 96 137
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 67
+end point 33 96 141
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 67
+end point 35 96 141
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 67
+end point 41 96 141
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 67
+end point 43 96 141
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 71
+end point 37 96 145
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 71
+end point 45 96 145
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 71
+end point 53 96 145
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 75
+end point 41 96 149
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 75
+end point 43 96 149
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 75
+end point 49 96 149
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 75
+end point 51 96 149
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 79
+end point 37 96 153
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 79
+end point 45 96 153
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 79
+end point 53 96 153
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 83
+end point 33 96 157
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 83
+end point 35 96 157
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 83
+end point 49 96 157
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 83
+end point 51 96 157
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 87
+end point 29 96 161
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 87
+end point 45 96 161
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 87
+end point 53 96 161
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 91
+end point 41 96 165
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 91
+end point 43 96 165
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 91
+end point 49 96 165
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 91
+end point 51 96 165
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 91
+end point 53 96 165
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 91
+end point 55 96 165
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 95
+end point 37 96 169
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 95
+end point 45 96 169
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 99
+end point 33 96 173
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 99
+end point 35 96 173
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 99
+end point 41 96 173
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 99
+end point 43 96 173
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 99
+end point 49 96 173
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 103
+end point 45 96 177
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 22 103
+end point 53 96 177
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 32
+end point 36 97 106
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 32
+end point 44 97 106
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 36
+end point 34 97 110
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 36
+end point 40 97 110
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 36
+end point 42 97 110
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 36
+end point 48 97 110
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 36
+end point 50 97 110
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 40
+end point 44 97 114
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 40
+end point 52 97 114
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 44
+end point 40 97 118
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 44
+end point 42 97 118
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 44
+end point 48 97 118
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 44
+end point 50 97 118
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 44
+end point 54 97 118
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 48
+end point 36 97 122
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 48
+end point 44 97 122
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 48
+end point 52 97 122
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 52
+end point 32 97 126
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 52
+end point 34 97 126
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 52
+end point 42 97 126
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 52
+end point 48 97 126
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 52
+end point 50 97 126
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 56
+end point 44 97 130
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 56
+end point 52 97 130
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 60
+end point 40 97 134
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 60
+end point 42 97 134
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 60
+end point 48 97 134
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 60
+end point 50 97 134
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 60
+end point 52 97 134
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 60
+end point 54 97 134
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 64
+end point 36 97 138
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 64
+end point 44 97 138
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 68
+end point 32 97 142
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 68
+end point 34 97 142
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 68
+end point 40 97 142
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 68
+end point 42 97 142
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 72
+end point 36 97 146
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 72
+end point 44 97 146
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 72
+end point 52 97 146
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 76
+end point 40 97 150
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 76
+end point 42 97 150
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 76
+end point 48 97 150
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 76
+end point 50 97 150
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 80
+end point 36 97 154
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 80
+end point 44 97 154
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 80
+end point 52 97 154
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 84
+end point 32 97 158
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 84
+end point 34 97 158
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 84
+end point 48 97 158
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 84
+end point 50 97 158
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 88
+end point 28 97 162
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 88
+end point 44 97 162
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 88
+end point 52 97 162
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 92
+end point 40 97 166
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 92
+end point 42 97 166
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 92
+end point 48 97 166
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 92
+end point 50 97 166
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 92
+end point 52 97 166
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 92
+end point 54 97 166
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 96
+end point 36 97 170
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 96
+end point 44 97 170
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 100
+end point 32 97 174
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 100
+end point 34 97 174
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 100
+end point 40 97 174
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 100
+end point 42 97 174
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 23 100
+end point 48 97 174
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 33
+end point 35 98 107
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 33
+end point 43 98 107
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 37
+end point 39 98 111
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 37
+end point 41 98 111
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 37
+end point 47 98 111
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 37
+end point 49 98 111
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 37
+end point 55 98 111
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 41
+end point 43 98 115
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 41
+end point 51 98 115
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 45
+end point 39 98 119
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 45
+end point 41 98 119
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 45
+end point 47 98 119
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 45
+end point 49 98 119
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 45
+end point 55 98 119
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 49
+end point 35 98 123
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 49
+end point 43 98 123
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 49
+end point 51 98 123
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 53
+end point 31 98 127
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 53
+end point 33 98 127
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 53
+end point 47 98 127
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 53
+end point 49 98 127
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 53
+end point 55 98 127
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 57
+end point 43 98 131
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 57
+end point 51 98 131
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 61
+end point 39 98 135
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 61
+end point 41 98 135
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 61
+end point 47 98 135
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 61
+end point 49 98 135
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 61
+end point 51 98 135
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 61
+end point 53 98 135
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 61
+end point 55 98 135
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 65
+end point 35 98 139
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 65
+end point 43 98 139
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 69
+end point 31 98 143
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 69
+end point 33 98 143
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 69
+end point 39 98 143
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 69
+end point 41 98 143
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 69
+end point 47 98 143
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 69
+end point 55 98 143
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 73
+end point 43 98 147
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 73
+end point 51 98 147
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 77
+end point 39 98 151
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 77
+end point 41 98 151
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 77
+end point 47 98 151
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 77
+end point 49 98 151
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 77
+end point 55 98 151
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 81
+end point 35 98 155
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 81
+end point 43 98 155
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 81
+end point 51 98 155
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 85
+end point 31 98 159
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 85
+end point 33 98 159
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 85
+end point 47 98 159
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 85
+end point 49 98 159
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 85
+end point 55 98 159
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 89
+end point 27 98 163
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 89
+end point 43 98 163
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 89
+end point 51 98 163
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 93
+end point 39 98 167
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 93
+end point 41 98 167
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 93
+end point 47 98 167
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 93
+end point 49 98 167
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 93
+end point 51 98 167
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 93
+end point 53 98 167
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 93
+end point 55 98 167
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 97
+end point 35 98 171
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 97
+end point 43 98 171
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 101
+end point 33 98 175
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 101
+end point 39 98 175
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 101
+end point 41 98 175
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 101
+end point 47 98 175
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 101
+end point 49 98 175
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 24 101
+end point 55 98 175
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 30
+end point 38 99 104
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 30
+end point 40 99 104
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 30
+end point 46 99 104
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 30
+end point 48 99 104
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 30
+end point 50 99 104
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 30
+end point 52 99 104
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 30
+end point 54 99 104
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 34
+end point 34 99 108
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 34
+end point 42 99 108
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 34
+end point 50 99 108
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 38
+end point 40 99 112
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 38
+end point 46 99 112
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 38
+end point 48 99 112
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 38
+end point 54 99 112
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 42
+end point 42 99 116
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 42
+end point 50 99 116
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 46
+end point 38 99 120
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 46
+end point 40 99 120
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 46
+end point 46 99 120
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 46
+end point 48 99 120
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 46
+end point 54 99 120
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 50
+end point 34 99 124
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 50
+end point 42 99 124
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 50
+end point 50 99 124
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 54
+end point 30 99 128
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 54
+end point 32 99 128
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 54
+end point 46 99 128
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 54
+end point 48 99 128
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 54
+end point 54 99 128
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 58
+end point 42 99 132
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 58
+end point 50 99 132
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 62
+end point 38 99 136
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 62
+end point 40 99 136
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 62
+end point 46 99 136
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 62
+end point 48 99 136
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 62
+end point 50 99 136
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 62
+end point 52 99 136
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 62
+end point 54 99 136
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 66
+end point 34 99 140
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 66
+end point 42 99 140
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 70
+end point 32 99 144
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 70
+end point 38 99 144
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 70
+end point 40 99 144
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 70
+end point 46 99 144
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 70
+end point 54 99 144
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 74
+end point 42 99 148
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 74
+end point 50 99 148
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 78
+end point 38 99 152
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 78
+end point 40 99 152
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 78
+end point 46 99 152
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 78
+end point 48 99 152
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 78
+end point 54 99 152
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 82
+end point 34 99 156
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 82
+end point 50 99 156
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 86
+end point 30 99 160
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 86
+end point 32 99 160
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 86
+end point 46 99 160
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 86
+end point 48 99 160
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 86
+end point 54 99 160
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 90
+end point 42 99 164
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 90
+end point 50 99 164
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 94
+end point 38 99 168
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 94
+end point 40 99 168
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 94
+end point 46 99 168
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 94
+end point 48 99 168
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 94
+end point 50 99 168
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 94
+end point 52 99 168
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 94
+end point 54 99 168
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 98
+end point 34 99 172
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 98
+end point 42 99 172
+Fold: 268
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 102
+end point 38 99 176
+Fold: 272
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 102
+end point 40 99 176
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 102
+end point 46 99 176
+Fold: 272
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 102
+end point 48 99 176
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 25 102
+end point 54 99 176
+Fold: 272
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 31
+end point 37 100 105
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 31
+end point 39 100 105
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 31
+end point 45 100 105
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 31
+end point 47 100 105
+Fold: 200
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 31
+end point 51 100 105
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 31
+end point 53 100 105
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 31
+end point 55 100 105
+Fold: 192
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 35
+end point 41 100 109
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 35
+end point 49 100 109
+Fold: 206
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 39
+end point 45 100 113
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 39
+end point 47 100 113
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 39
+end point 53 100 113
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 39
+end point 55 100 113
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 43
+end point 41 100 117
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 43
+end point 49 100 117
+Fold: 214
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 47
+end point 37 100 121
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 47
+end point 39 100 121
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 47
+end point 45 100 121
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 47
+end point 47 100 121
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 47
+end point 53 100 121
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 47
+end point 55 100 121
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 51
+end point 33 100 125
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 51
+end point 49 100 125
+Fold: 222
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 55
+end point 31 100 129
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 55
+end point 45 100 129
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 55
+end point 47 100 129
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 55
+end point 53 100 129
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 55
+end point 55 100 129
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 59
+end point 41 100 133
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 59
+end point 49 100 133
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 37 100 137
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 39 100 137
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 45 100 137
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 47 100 137
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 49 100 137
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 51 100 137
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 53 100 137
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 63
+end point 55 100 137
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 67
+end point 33 100 141
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 67
+end point 41 100 141
+Fold: 238
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 71
+end point 37 100 145
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 71
+end point 39 100 145
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 71
+end point 45 100 145
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 71
+end point 47 100 145
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 71
+end point 53 100 145
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 71
+end point 55 100 145
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 75
+end point 41 100 149
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 75
+end point 49 100 149
+Fold: 246
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 79
+end point 37 100 153
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 79
+end point 39 100 153
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 79
+end point 45 100 153
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 79
+end point 47 100 153
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 79
+end point 53 100 153
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 79
+end point 55 100 153
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 83
+end point 33 100 157
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 83
+end point 49 100 157
+Fold: 254
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 87
+end point 29 100 161
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 87
+end point 31 100 161
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 87
+end point 45 100 161
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 87
+end point 47 100 161
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 87
+end point 53 100 161
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 87
+end point 55 100 161
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 91
+end point 41 100 165
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 91
+end point 49 100 165
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 37 100 169
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 39 100 169
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 45 100 169
+Fold: 266
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 47 100 169
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 49 100 169
+Fold: 262
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 51 100 169
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 53 100 169
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 95
+end point 55 100 169
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 99
+end point 33 100 173
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 99
+end point 41 100 173
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 99
+end point 49 100 173
+Fold: 270
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 103
+end point 39 100 177
+Fold: 272
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 103
+end point 45 100 177
+Fold: 274
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 103
+end point 47 100 177
+Fold: 272
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 103
+end point 53 100 177
+Fold: 274
+
+ERROR: xz -> xy on an even fold.
+start point 0 26 103
+end point 55 100 177
+Fold: 272
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 32
+end point 36 101 106
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 32
+end point 38 101 106
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 32
+end point 44 101 106
+Fold: 204
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 32
+end point 46 101 106
+Fold: 202
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 32
+end point 50 101 106
+Fold: 198
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 32
+end point 52 101 106
+Fold: 196
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 32
+end point 54 101 106
+Fold: 194
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 36
+end point 40 101 110
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 36
+end point 48 101 110
+Fold: 208
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 40
+end point 44 101 114
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 40
+end point 46 101 114
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 40
+end point 52 101 114
+Fold: 212
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 40
+end point 54 101 114
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 44
+end point 40 101 118
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 44
+end point 48 101 118
+Fold: 216
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 48
+end point 36 101 122
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 48
+end point 38 101 122
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 48
+end point 44 101 122
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 48
+end point 46 101 122
+Fold: 218
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 48
+end point 52 101 122
+Fold: 220
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 48
+end point 54 101 122
+Fold: 210
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 52
+end point 32 101 126
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 52
+end point 48 101 126
+Fold: 224
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 56
+end point 30 101 130
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 56
+end point 44 101 130
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 56
+end point 46 101 130
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 56
+end point 52 101 130
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 56
+end point 54 101 130
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 60
+end point 40 101 134
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 60
+end point 48 101 134
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 36 101 138
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 38 101 138
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 44 101 138
+Fold: 236
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 46 101 138
+Fold: 234
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 48 101 138
+Fold: 232
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 50 101 138
+Fold: 230
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 52 101 138
+Fold: 228
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 64
+end point 54 101 138
+Fold: 226
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 68
+end point 32 101 142
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 68
+end point 40 101 142
+Fold: 240
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 72
+end point 36 101 146
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 72
+end point 38 101 146
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 72
+end point 44 101 146
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 72
+end point 46 101 146
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 72
+end point 52 101 146
+Fold: 244
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 72
+end point 54 101 146
+Fold: 242
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 76
+end point 40 101 150
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 76
+end point 48 101 150
+Fold: 248
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 80
+end point 36 101 154
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 80
+end point 38 101 154
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 80
+end point 44 101 154
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 80
+end point 46 101 154
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 80
+end point 52 101 154
+Fold: 252
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 80
+end point 54 101 154
+Fold: 250
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 84
+end point 32 101 158
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 84
+end point 48 101 158
+Fold: 256
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 88
+end point 28 101 162
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 88
+end point 30 101 162
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 88
+end point 44 101 162
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 88
+end point 46 101 162
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 88
+end point 52 101 162
+Fold: 260
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 88
+end point 54 101 162
+Fold: 258
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 92
+end point 40 101 166
+Fold: 264
+
+ERROR: xz -> xy on an even fold.
+start point 0 27 92
+end point 48 101 166
+Fold: 264
+
